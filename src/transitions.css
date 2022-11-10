@@ -1,0 +1,61 @@
+.fast-fade-leave,
+.fast-fade-enter {
+    @apply ease-in-out duration-75;
+}
+.fast-fade-leave-to,
+.fast-fade-enter-from {
+    @apply opacity-0;
+}
+.fast-fade-leave-from,
+.fast-fade-enter-to {
+    @apply opacity-100;
+}
+
+.fade-leave {
+    @apply ease-in duration-200;
+}
+.fade-enter {
+    @apply ease-out duration-300;
+}
+.fade-leave-to,
+.fade-enter-from {
+    @apply opacity-0;
+}
+.fade-leave-from,
+.fade-enter-to {
+    @apply opacity-100;
+}
+
+.slide-up-leave,
+.slide-up-enter {
+    @apply transition transform;
+}
+.slide-up-leave {
+    @apply ease-out duration-150;
+}
+.slide-up-enter {
+    @apply ease-in duration-200;
+}
+.slide-up-leave-to,
+.slide-up-enter-from {
+    @apply translate-y-full;
+}
+.slide-up-leave-from,
+.slide-up-enter-to {
+    @apply translate-y-0;
+}
+
+.slide-down-enter {
+    @apply transform ease-out duration-200 transition-all;
+}
+.slide-down-leave-to,
+.slide-down-enter-from {
+    @apply -translate-y-2 opacity-0;
+}
+.slide-down-leave-from,
+.slide-down-enter-to {
+    @apply translate-y-0 opacity-100;
+}
+.slide-down-leave {
+    @apply transition-all ease-in duration-100;
+}
