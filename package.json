@@ -19,6 +19,9 @@
     "tailwindcss",
     "animations"
   ],
+  "engines": {
+    "node": ">=22"
+  },
   "author": "Robin van Baalen",
   "license": "ISC",
   "bugs": {
