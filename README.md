@@ -1,3 +1,10 @@
+[&larr; See my other Open Source projects](https://robinvanbaalen.nl)
+
+# @rvanbaalen/transitionjs
+![NPM Downloads](https://img.shields.io/npm/d18m/%40rvanbaalen%2Ftransitionjs)
+![GitHub License](https://img.shields.io/github/license/rvanbaalen/transitionjs)
+![NPM Version](https://img.shields.io/npm/v/%40rvanbaalen%2Ftransitionjs)
+
 # TransitionJS
 
 Dead simple JavaScript functions to use TailwindCSS transitions without libraries.
