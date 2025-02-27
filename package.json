@@ -1,7 +1,7 @@
 {
   "name": "@rvanbaalen/transitionjs",
   "version": "1.1.0",
-  "description": "Dead simple javascript functions to use TailwindCSS transitions without libraries",
+  "description": "Dead simple, zero-dependencies javascript functions to use TailwindCSS transitions without libraries",
   "main": "src/index.js",
   "files": [
     "src/index.js",
@@ -17,15 +17,16 @@
   "keywords": [
     "transitionjs",
     "tailwindcss",
-    "animations"
+    "animations",
+    "zero-dependencies"
   ],
   "engines": {
     "node": ">=22"
   },
   "author": "Robin van Baalen",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/rvanbaalen/transitionjs/issues"
   },
-  "homepage": "https://github.com/rvanbaalen/transitionjs#readme"
+  "homepage": "https://robinvanbaalen.nl/transitionjs"
 }
