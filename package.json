@@ -8,6 +8,8 @@
     "src/transitions.css"
   ],
   "scripts": {
+    "dev": "vite",
+    "build": "vite build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -28,5 +30,9 @@
   "bugs": {
     "url": "https://github.com/rvanbaalen/transitionjs/issues"
   },
-  "homepage": "https://robinvanbaalen.nl/transitionjs"
+  "homepage": "https://robinvanbaalen.nl/transitionjs",
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.15",
+    "vite": "^6.2.2"
+  }
 }
