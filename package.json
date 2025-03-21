@@ -1,7 +1,7 @@
 {
   "name": "@rvanbaalen/transitionjs",
   "version": "1.2.1",
-  "description": "Dead simple, zero-dependencies javascript functions to use TailwindCSS transitions without libraries",
+  "description": "Dead simple, zero-dependencies javascript functions for TailwindCSS transitions.",
   "main": "src/index.js",
   "files": [
     "src/index.js",
