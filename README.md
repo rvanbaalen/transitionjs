@@ -5,11 +5,9 @@
 ![GitHub License](https://img.shields.io/github/license/rvanbaalen/transitionjs)
 ![NPM Version](https://img.shields.io/npm/v/%40rvanbaalen%2Ftransitionjs)
 
-# TransitionJS
-
 Dead simple JavaScript functions to use TailwindCSS transitions without libraries.
 
-## Overview
+## Description
 
 TransitionJS is a lightweight JavaScript utility that provides easy-to-use transition functions for TailwindCSS. With a few simple methods, you can animate the entry and exit of elements using predefined transition styles like fade and slide.
 
