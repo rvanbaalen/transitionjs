@@ -7,6 +7,7 @@
     "src/index.js",
     "src/transitions.css"
   ],
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
