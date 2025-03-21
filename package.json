@@ -18,9 +18,11 @@
     "url": "git+ssh://git@github.com/rvanbaalen/transitionjs.git"
   },
   "keywords": [
-    "transitionjs",
+    "javascript",
+    "transition",
     "tailwindcss",
-    "animations",
+    "animation",
+    "util",
     "zero-dependencies"
   ],
   "engines": {
