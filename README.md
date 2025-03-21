@@ -23,7 +23,7 @@ TransitionJS is a lightweight JavaScript utility that provides easy-to-use trans
 
 ## Installation
 
-Install the package using [npm](https://www.npmjs.com/):
+Install the package using [npm](https://www.npmjs.com/)
 
 ```bash
 npm install @rvanbaalen/transitionjs
