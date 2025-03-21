@@ -195,17 +195,13 @@ TransitionJS uses TailwindCSS utility classes (and custom CSS, if provided) to a
 
 Helper functions such as `nextFrame` (to wait for the next animation frame) and `afterTransition` (to wait until the transition duration completes) are used internally to ensure smooth transitions.
 
-## License
-
-TransitionJS is released under the [MIT License](./LICENSE).
-
 ## Contributing
 
-Contributions are welcome! Feel free to open issues or submit pull requests on the [GitHub repository](https://github.com/rvanbaalen/transitionjs).
+Contributions are welcome! Please feel free to [open an issue](https://github.com/rvanbaalen/transitionjs/issues) or [submit a pull request](https://github.com/rvanbaalen/transitionjs/pulls).
 
-## Reporting Issues
+## License
 
-If you encounter any bugs or have suggestions for improvements, please report them on the [issues page](https://github.com/rvanbaalen/transitionjs/issues).
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/rvanbaalen/transitionjs/blob/main/LICENSE) file for details.
 
 ---
 
