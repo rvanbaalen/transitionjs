@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/rvanbaalen/transitionjs/compare/transitionjs-v1.2.0...transitionjs-v1.2.1) (2025-03-21)
+
+
+### Bug Fixes
+
+* set package type to module for ES module support ([b5e8bee](https://github.com/rvanbaalen/transitionjs/commit/b5e8bee9185a9ec1ef68014417aec13b1e8da6d0))
+
 ## [1.2.0](https://github.com/rvanbaalen/transitionjs/compare/transitionjs-v1.1.0...transitionjs-v1.2.0) (2025-03-21)
 
 
