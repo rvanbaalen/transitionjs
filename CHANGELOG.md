@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.2](https://github.com/rvanbaalen/transitionjs/compare/transitionjs-v1.2.1...transitionjs-v1.2.2) (2025-03-21)
+
+
+### Bug Fixes
+
+* fake fix to bump version ([654cd1c](https://github.com/rvanbaalen/transitionjs/commit/654cd1cb25e2a047ce1aa4c38ff65fcf7c1c7109))
+
 ## [1.2.1](https://github.com/rvanbaalen/transitionjs/compare/transitionjs-v1.2.0...transitionjs-v1.2.1) (2025-03-21)
 
 
