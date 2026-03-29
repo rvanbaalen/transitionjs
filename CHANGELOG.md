@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.3](https://github.com/rvanbaalen/transitionjs/compare/transitionjs-v1.2.2...transitionjs-v1.2.3) (2026-03-29)
+
+
+### Bug Fixes
+
+* correct repository URL format to produce valid GitHub links ([d003282](https://github.com/rvanbaalen/transitionjs/commit/d00328215f994157ea84f7ab54689895f9232f04))
+
 ## [1.2.2](https://github.com/rvanbaalen/transitionjs/compare/transitionjs-v1.2.1...transitionjs-v1.2.2) (2026-03-29)
 
 
