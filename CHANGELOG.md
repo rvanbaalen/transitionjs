@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.2](https://github.com/rvanbaalen/transitionjs/compare/transitionjs-v1.2.1...transitionjs-v1.2.2) (2026-03-29)
+
+
+### Bug Fixes
+
+* fake fix to bump version ([654cd1c](https://github.com/rvanbaalen/transitionjs/commit/654cd1cb25e2a047ce1aa4c38ff65fcf7c1c7109))
+* update base path for custom domain ([946b44e](https://github.com/rvanbaalen/transitionjs/commit/946b44e21e4aaaf1e9a2fa3130c61ebb5b04afa0))
+
 ## [1.2.1](https://github.com/rvanbaalen/transitionjs/compare/transitionjs-v1.2.0...transitionjs-v1.2.1) (2025-03-21)
 
 
