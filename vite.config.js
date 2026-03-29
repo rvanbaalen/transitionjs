@@ -3,7 +3,7 @@ import tailwindcss from "@tailwindcss/vite"
 import { defineConfig } from "vite"
 
 export default defineConfig({
-  base: "/transitionjs/", // Change this if your page is not hosted at a root URL
+  base: "/",
   plugins: [
     tailwindcss(),
   ],
