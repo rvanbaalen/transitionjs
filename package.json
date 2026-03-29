@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/rvanbaalen/transitionjs.git"
+    "url": "git+https://github.com/rvanbaalen/transitionjs.git"
   },
   "keywords": [
     "javascript",
